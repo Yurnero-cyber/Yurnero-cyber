@@ -17,6 +17,8 @@
 
 - Garen's passive ability 'Perseverance' is a way of life
 
+<img src="IMAGES/perseverance.jpeg" width="50">
+
 <!--
 **Yurnero-cyber/Yurnero-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
