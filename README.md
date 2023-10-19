@@ -22,8 +22,10 @@
 <h2> Languages and Tools </h2>
 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>
+<img title="Hadoop" alt="Hadoop" src="assets/hadoop.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+<img title="AWS" alt="AWS" src="assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
 
 <!--
 **Yurnero-cyber/Yurnero-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
